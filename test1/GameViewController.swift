@@ -13,7 +13,7 @@ class GameViewController: UIViewController {
 
     
     override func viewDidLoad() {
-        //remove most
+        //remove most info
         super.viewDidLoad()
         let scene = LevelOne(size: view.bounds.size)
         let skView = view as! SKView
