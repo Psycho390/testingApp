@@ -9,6 +9,7 @@
 import SpriteKit
 
 class Box:Object{
+    //add images
     override init(){
         super.init()
         self.movable = true

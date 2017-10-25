@@ -8,7 +8,7 @@
 import SpriteKit
 
 class Field:SKScene{
-    
+    //remove most
     var locationWidth:Int?
     var locationHeight:Int?
     var objectOnField:Object?

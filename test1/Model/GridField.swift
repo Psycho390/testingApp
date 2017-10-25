@@ -10,7 +10,7 @@ import SceneKit
 
 
 class GridField{
-    
+    //comment all
     let amountWidth:Int
     let amountHeight:Int
     

@@ -9,6 +9,7 @@
 import SpriteKit
 
 class Object {
+    //add images
     var movable:Bool
     init(){
         self.movable = false

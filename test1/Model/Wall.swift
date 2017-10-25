@@ -8,5 +8,7 @@
 
 import SpriteKit
 
-class Wall:Object{  
+class Wall:Object{
+    //add images
+    
 }

@@ -14,7 +14,7 @@ class LevelOne:SKScene{
     var fields = [Field]()
     let tileSize = (width:32, height:32)
     let view2D:SKSpriteNode
-    
+    // need to write overwrite
     override init(size: CGSize) {
         view2D = SKSpriteNode()
         super.init(size: size)
@@ -23,6 +23,8 @@ class LevelOne:SKScene{
     required init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
+    
+    //toDo remove comment section
     override func didMove(to view: SKView) {
         runFieldLoop()
         backgroundColor = SKColor.white
