@@ -21,7 +21,6 @@
 		EC7E12941F9CA3CB005AFD7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC7E12921F9CA3CB005AFD7A /* LaunchScreen.storyboard */; };
 		EC7E129F1F9CA3CB005AFD7A /* test1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7E129E1F9CA3CB005AFD7A /* test1Tests.swift */; };
 		EC7E12AA1F9CA3CB005AFD7A /* test1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7E12A91F9CA3CB005AFD7A /* test1UITests.swift */; };
-		EC7E12B81F9CA70B005AFD7A /* sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = EC7E12B71F9CA70B005AFD7A /* sprites.atlas */; };
 		EC7E12BA1F9CAACA005AFD7A /* Level1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7E12B91F9CAACA005AFD7A /* Level1.swift */; };
 /* End PBXBuildFile section */
 
@@ -63,7 +62,6 @@
 		EC7E12A51F9CA3CB005AFD7A /* test1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC7E12A91F9CA3CB005AFD7A /* test1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1UITests.swift; sourceTree = "<group>"; };
 		EC7E12AB1F9CA3CB005AFD7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC7E12B71F9CA70B005AFD7A /* sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = sprites.atlas; sourceTree = "<group>"; };
 		EC7E12B91F9CAACA005AFD7A /* Level1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -143,7 +141,6 @@
 				EC7E128B1F9CA3CB005AFD7A /* GameViewController.swift */,
 				EC7E128D1F9CA3CB005AFD7A /* Main.storyboard */,
 				EC7E12901F9CA3CB005AFD7A /* Assets.xcassets */,
-				EC7E12B71F9CA70B005AFD7A /* sprites.atlas */,
 				EC7E12921F9CA3CB005AFD7A /* LaunchScreen.storyboard */,
 				EC7E12951F9CA3CB005AFD7A /* Info.plist */,
 			);
@@ -285,7 +282,6 @@
 			files = (
 				EC7E128F1F9CA3CB005AFD7A /* Main.storyboard in Resources */,
 				EC7E12911F9CA3CB005AFD7A /* Assets.xcassets in Resources */,
-				EC7E12B81F9CA70B005AFD7A /* sprites.atlas in Resources */,
 				EC7E12941F9CA3CB005AFD7A /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
