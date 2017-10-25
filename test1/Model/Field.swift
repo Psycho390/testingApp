@@ -12,7 +12,7 @@ class Field:SKScene{
     var locationWidth:Int?
     var locationHeight:Int?
     var objectOnField:Object?
-    var imageForGround = SKSpriteNode(imageNamed: "ground")
+    var imageForGround = SKSpriteNode(imageNamed: "Field")
     /**
      This function adds an **Object** to this **Field**
      - Author: Nick van der Boor
